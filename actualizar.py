@@ -1,3 +1,5 @@
+# Este script actualiza y muestra el tipo de cambio del dólar en Perú para el último año desde la fecha actual.
+
 import pandas as pd
 import requests
 from datetime import datetime
